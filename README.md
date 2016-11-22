@@ -13,7 +13,6 @@ Todo
 ----
 
 1. Need to remove redunant libraries for Microsoft Analyzers. [DONE]
-2. 
 
 Installation 
 ----
